@@ -1,0 +1,5 @@
+2026-11-22 19:28:28,294 | INFO | __main__ | Kino Bot ishga tushmoqda...
+2026-11-22 19:28:29,309 | INFO | aiogram.dispatcher | Start polling
+2026-11-22 19:28:29,487 | INFO | aiogram.dispatcher | Run polling for bot @Film_uz1bot id=9073444204 - 'Film hududi'
+2026-11-22 19:28:53,976 | INFO | aiogram.event | Update id=961848996 is handled. Duration 1049 ms by bot id=9073444204
+2026-11-22 19:28:56,009 | INFO | aiogram.event | Update id=961848997 is handled. Duration 404 ms by bot id=9073444204
